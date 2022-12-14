@@ -1,0 +1,21 @@
+---
+title: Second post 
+date: 2022-12-06 13:00
+image: https://via.placeholder.com/350x150
+lead: "If there is a lesson to be learned, it is the futility of seeking fulfillment in outer space. We need to judge ourselfs by who we are, not by where we go."
+subtitle: create a ultra fast, secure blog that is easy to maintain and easy to scale
+---
+
+
+
+Some of the benefits of a static website generators are that they are:
+
+- **Simlpe** - makes building and maintaining websites incredibly simple.
+- **Fast**: Static files can be served fast.
+- **Secure**, as they do not contain dynamic content, so are immune to the most common attacks.
+
+
+
+
+
+
