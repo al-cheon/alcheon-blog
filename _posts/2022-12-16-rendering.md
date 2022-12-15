@@ -1,3 +1,11 @@
+---
+title: 서버사이드 렌더링 
+date: 2022-12-16 13:00
+image: https://via.placeholder.com/350x150
+lead: "If there is a lesson to be learned, it is the futility of seeking fulfillment in outer space. We need to judge ourselfs by who we are, not by where we go."
+subtitle: 서버사이드 렌더링
+---
+
 # 웹페이지 렌더링
 
 <aside>
