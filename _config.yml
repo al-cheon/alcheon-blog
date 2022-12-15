@@ -21,8 +21,8 @@
 title: My First Blog Set
 email: al.cheon03@gmail.com
 description: "SO JAEJEONG Blog offers high impact yet affordable web development services. From web design to targeted SEO to custom web applications."
-baseurl: "/demosite" # the subpath of your site, e.g. /blog
-url: "https://al-cheon.github.io/demosite/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/alcheon-blog" # the subpath of your site, e.g. /blog
+url: "https://al-cheon.github.io/alcheon-blog/" # the base hostname & protocol for your site, e.g. http://example.com
 tter_username: jekyllrb
 github_username:  jekyll
 
